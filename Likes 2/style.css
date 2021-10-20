@@ -1,0 +1,142 @@
+#nav {
+    display: flex;
+    align-content: left;
+    justify-content: start;
+    background-color: black;
+    color: whitesmoke;
+    height: 75px;
+    width: 700px;
+    margin: 0 auto;
+    padding-left: 20px;
+    
+}
+
+.title {
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#container {
+    display:flex;
+    align-content:space-between ;
+    justify-content: space-between; 
+    height: 700px;
+    width: 950px;
+    margin: 0 auto;
+    padding-top: 50px;
+    
+
+}
+
+#right {
+    display:center;
+    align-content: center;
+    justify-content: center; 
+    background-color: palegoldenrod;
+    height: 305px;
+    width: 200px;
+    margin: 0 auto;
+    border: solid;
+}
+
+.user {
+    display: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+}
+.pic {
+    display: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 85px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 45px;   
+} 
+
+.link{
+    display: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-left:20px;
+
+
+}
+
+.name{
+    display: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    
+    
+}
+
+#left {
+    display: flex 2; 
+    align-content:flex-end;
+    justify-content: space-between; 
+    height: 520px;
+    width: 410px;
+    /* background-color: yellow; */
+    margin: 0 auto;
+}
+
+.profile {
+    padding-bottom: 35px;
+
+}
+
+.first {
+    height: 200px;
+    width: 450px;
+    background-color: palegoldenrod;
+    border: solid;
+
+}
+
+.bio {
+    display: flex;
+    justify-content: space-evenly;
+}
+.nombre {
+    padding-right: 30px;
+    margin-left: -60px;
+   
+}
+
+.likes {
+    padding-left: 35px;
+}
+
+.btn1, .btn2, .btn3 {
+    width: 55px;
+    height: 40px;
+    background-color: silver;
+    box-shadow: black;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
